@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Wonderwall",
+  "base_artist": "Oasis",
+  "createdAt": "2026-02-26T16:37:06.890355Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wonderwall",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/01_Wonderwall_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wonderwall",
+      "artist": "Noel Gallagher",
+      "has_synced": true,
+      "path": "select/02_Wonderwall_Noel_Gallagher.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wonderwall",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/03_Wonderwall_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wonderwall (Live at Knebworth, 10 August '96)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/04_Wonderwall_(Live_at_Knebworth,_10_August_'96)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wonderwall (Live at Knebworth)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/05_Wonderwall_(Live_at_Knebworth)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wonderwall",
+      "artist": "The Cooltrane Quartet",
+      "has_synced": true,
+      "path": "select/06_Wonderwall_The_Cooltrane_Quartet.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wonderwall",
+      "artist": "Anastacia",
+      "has_synced": true,
+      "path": "select/07_Wonderwall_Anastacia.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wonderwall",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/08_Wonderwall_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wonderwall",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/09_Wonderwall_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wonderwall",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/10_Wonderwall_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wonderwall",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/11_Wonderwall_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Wonderwall (feat. Lesley-Ann Brandt)",
+      "artist": "Lucifer Cast feat. Lesley-Ann Brandt",
+      "has_synced": true,
+      "path": "select/12_Wonderwall_(feat._Lesley-Ann_Brandt)_Lucifer_Cast_feat._Lesley-Ann_Brandt.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Wonderwall (feat. Lesley-Ann Brandt)",
+      "artist": "Lucifer Cast",
+      "has_synced": true,
+      "path": "select/13_Wonderwall_(feat._Lesley-Ann_Brandt)_Lucifer_Cast.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Wonderwall",
+      "artist": "Cartel",
+      "has_synced": true,
+      "path": "select/14_Wonderwall_Cartel.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Wonderwall - Blink-182 Style",
+      "artist": "Alex Melton",
+      "has_synced": true,
+      "path": "select/15_Wonderwall_-_Blink-182_Style_Alex_Melton.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Wonderwall (Oasis)",
+      "artist": "Alex Melton",
+      "has_synced": true,
+      "path": "select/16_Wonderwall_(Oasis)_Alex_Melton.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Wonderwall",
+      "artist": "Royal Philharmonic Orchestra",
+      "has_synced": false,
+      "path": "select/17_Wonderwall_Royal_Philharmonic_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Wonderwall",
+      "artist": "The Royal Philharmonic Orchestra",
+      "has_synced": false,
+      "path": "select/18_Wonderwall_The_Royal_Philharmonic_Orchestra.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wonderwall",
+      "artist": "Oasis",
+      "has_synced": false,
+      "path": "select/pl_01_Wonderwall_Oasis.txt"
+    }
+  ]
+}
